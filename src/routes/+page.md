@@ -11,4 +11,4 @@ description: Временный сайт для приложения Bonfire
   * [Скачать через APK](/bonfire2.apk)
 * [Политика конфиденциальности](/page/privacy)
 * [Запросить удаление данных](/page/delete)
-* [Для правообладателей / DMCA](/copyright)
+* [Для правообладателей / DMCA](/page/copyright)
