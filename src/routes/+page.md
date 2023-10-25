@@ -8,5 +8,7 @@ description: Временный сайт для приложения Bonfire
 веб-версия приложения, а пока тут только самая важная информация.
 
 * [Скачать приложение](https://play.google.com/store/apps/details?id=sh.sit.bonfire)
+  * [Скачать через APK](/bonfire2.apk)
 * [Политика конфиденциальности](/page/privacy)
 * [Запросить удаление данных](/page/delete)
+* [Для правообладателей / DMCA](/copyright)
