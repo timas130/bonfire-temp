@@ -12,3 +12,4 @@ description: Временный сайт для приложения Bonfire
 * [Политика конфиденциальности](/page/privacy)
 * [Запросить удаление данных](/page/delete)
 * [Для правообладателей / DMCA](/page/copyright)
+* [Связаться](mailto:me@bonfire.moe)

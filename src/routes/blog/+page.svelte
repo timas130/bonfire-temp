@@ -24,7 +24,7 @@
   <title>Блог Bonfire</title>
   <meta
     name="description"
-    content="Chola - A minimal Sveltekit theme or template which uses mdsvex. Suitable for text based websites and blogs."
+    content="В блоге Bonfire рассказывается про разработку приложения"
   />
 </svelte:head>
 
